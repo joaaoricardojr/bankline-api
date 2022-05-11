@@ -8,7 +8,7 @@ public class BanklineApiApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(BanklineApiApplication.class, args);
-		//https://dio-bankline-api-joaoricardojr.herokuapp.com/swagger-ui/index.html/
+		//https://dio-bankline-api-joaoricardojr.herokuapp.com/swagger-ui/index.html#/
 	}
 
 }
